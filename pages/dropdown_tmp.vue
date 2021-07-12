@@ -57,6 +57,10 @@
           <i class="dropdown__item_icon">github</i>
           <span class="dropdown__item_name">project-name</span>
         </button>
+        <button class="dropdown__item">
+          <i class="dropdown__item_icon">github</i>
+          <span class="dropdown__item_name">project-name</span>
+        </button>
       </div>
     </div>
 
